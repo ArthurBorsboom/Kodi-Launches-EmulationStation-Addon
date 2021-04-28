@@ -1,10 +1,13 @@
 # Kodi Launches EmulationStation Addon
-Addon for Kodi to launch EmulationStation on Windows and Linux (platforms were EmulationStation have official support).
+Kodi Addon to launch EmulationStation.
 
-Our goal is to bring to Kodi an easy access to launch this fantastic emulator front-end which provides a beautiful interface to run your roms from more than 50 systems (and counting) with personalized skins and art boxes. You can navigate on its menus using a controller which is perfect for a complete HTPC experience, also it has a built-in metadata scraper that lets you easily download game box art, correct titles, description and even ratings about your games. EmulationStation is cross-platform, and completely open source.
+The goal is to add an easy way to Kodi to start this fantastic emulator, which provides a beautiful interface to run your ROM's from more than 50 systems with personalized skins and art boxes. You can navigate the menus using a game controller which is perfect for a complete HTPC experience. EmulationStation has a built-in metadata scraper that downloads game art, correct titles, descriptions and even ratings of your games. EmulationStation is cross-platform, and open source.
 
-This Addon support Kodi 19 (Matrix) and newer.
-This Addon is available in 3 languages: English, French and Spanish. To switch to any language, change it on the configurations of Kodi at `Settings -> Interface settings -> Regional -> Language`.
+* OS: Windows, Linux
+* Kodi: v19 (Matrix) and newer.
+* Languages: English, French and Spanish.
+
+To switch language, change it on the configurations of Kodi at `Settings -> Interface settings -> Regional -> Language`.
 
 ## Usage
 Use this Addon on Kodi if you want to launch EmulationStation from it using a nice interface created with original images taken from the program itself and games. It works on any platform where Kodi and EmulationStation can be installed (Linux and Windows).
