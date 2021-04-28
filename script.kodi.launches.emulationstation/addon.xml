@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<addon id="script.kodi.launches.emulationstation" name="EmulationStation" version="1.1.7" provider-name="BrosMakingSoftware">
+<addon id="script.kodi.launches.emulationstation" name="EmulationStation" version="1.2.0" provider-name="BrosMakingSoftware">
 	<requires>
-		<import addon="xbmc.python" version="2.25.0"/>
+		<import addon="xbmc.python" version="3.0.0"/>
 	</requires>
 	<extension point="xbmc.python.script" library="addon.py">
 		<provides>executable</provides>
@@ -16,11 +16,15 @@
 		<description lang="fr">Addon pour lancer EmulationStation à partir de Kodi[CR] EmulationStation est une interface graphique multi-plateforme pour les émulateurs utilisant un controlleur pour la navigation. [CR] Installez et configurez EmulationStation avec d'utiliser ce raccourci, pour des instructions et le lien de téléchargement, consultez http://emulationstation.org/</description>
 		<license>GNU GENERAL PUBLIC LICENSE. Version 3, 29 June 2007</license>
 		<language>en fr es</language>
-		<source>https://github.com/BrosMakingSoftware/Kodi-Launches-EmulationStation-Addon/</source>
-		<website>https://github.com/BrosMakingSoftware/Kodi-Launches-EmulationStation-Addon/blob/master/README.md#kodi-launches-emulationstation-addon</website>
+		<source>https://github.com/ArthurBorsboom/Kodi-Launches-EmulationStation-Addon</source>
+		<website>https://github.com/ArthurBorsboom/Kodi-Launches-EmulationStation-Addon/blob/master/README.md#kodi-launches-emulationstation-addon</website>
 		<forum></forum>
-		<email>diego.hernandez.perez.cr@gmail.com</email>
+		<email>arthurborsboom@gmail.com</email>
 		<news>
+1.2.0
+- Support for Kodi 19 (Matrix); this breaks compatibility with Kodi 18 and older.
+- Applied several Python standard coding styles (PEP 8).
+
 1.1.7
  - Fixed License file to match the GitHub's license auto-detect feature
 
