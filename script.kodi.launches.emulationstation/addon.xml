@@ -11,9 +11,9 @@
 		<summary lang="en">Kodi Launches EmulationStation</summary>
 		<summary lang="es">Kodi Inicia EmulationStation</summary>
 		<summary lang="fr">Raccourci EmulationStation pour Kodi</summary>
-		<description lang="en">Addon for Kodi to launch EmulationStation.[CR]EmulationStation is a cross-platform graphical front-end for emulators with controller navigation.[CR]Install and configure EmulationStation before using this launcher, for instructions and downloads, go to http://emulationstation.org/</description>
-		<description lang="es">Addon de Kodi para iniciar EmulationStation.[CR]EmulationStation es una interfaz gráfica multi-plataforma para emuladores con navegación por medio de controles (mandos).[CR]Instala y configura EmulationStation antes de usar este inicializador, para instrucciones y descargas, visite http://emulationstation.org/</description>
-		<description lang="fr">Addon pour lancer EmulationStation à partir de Kodi[CR] EmulationStation est une interface graphique multi-plateforme pour les émulateurs utilisant un controlleur pour la navigation. [CR] Installez et configurez EmulationStation avec d'utiliser ce raccourci, pour des instructions et le lien de téléchargement, consultez http://emulationstation.org/</description>
+		<description lang="en">Addon for Kodi to launch EmulationStation.[CR]EmulationStation is a cross-platform graphical front-end for emulators with controller navigation.[CR]Install and configure EmulationStation before using this launcher, for instructions and downloads, go to https://emulationstation.org/</description>
+		<description lang="es">Addon de Kodi para iniciar EmulationStation.[CR]EmulationStation es una interfaz gráfica multi-plataforma para emuladores con navegación por medio de controles (mandos).[CR]Instala y configura EmulationStation antes de usar este inicializador, para instrucciones y descargas, visite https://emulationstation.org/</description>
+		<description lang="fr">Addon pour lancer EmulationStation à partir de Kodi[CR] EmulationStation est une interface graphique multi-plateforme pour les émulateurs utilisant un controlleur pour la navigation. [CR] Installez et configurez EmulationStation avec d'utiliser ce raccourci, pour des instructions et le lien de téléchargement, consultez https://emulationstation.org/</description>
 		<license>GNU GENERAL PUBLIC LICENSE. Version 3, 29 June 2007</license>
 		<language>en fr es</language>
 		<source>https://github.com/ArthurBorsboom/Kodi-Launches-EmulationStation-Addon</source>
@@ -24,6 +24,8 @@
 1.2.0
 - Support for Kodi 19 (Matrix); this breaks compatibility with Kodi 18 and older.
 - Applied several Python standard coding styles (PEP 8).
+- Updated credit and readme files
+- Added Arthur Borsboom as new maintainer
 
 1.1.7
  - Fixed License file to match the GitHub's license auto-detect feature
