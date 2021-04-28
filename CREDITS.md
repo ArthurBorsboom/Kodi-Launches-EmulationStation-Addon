@@ -1,7 +1,7 @@
 ## Kodi-Launches-EmulationStation-Addon
 - Description: Kodi Addon to start EmulationStation
-- Author: Diego Hernandez Perez (aka: iampeluca, https://github.com/iampeluca, diego.hernandez.perez.cr@gmail.com)
-- Maintainer: Arthur Borsboom, https://github.com/ArthurBorsboom, arthurborsboom@gmail.com)
+- Author: Diego Hernandez Perez (aka iampeluca), https://github.com/iampeluca, diego.hernandez.perez.cr@gmail.com
+- Maintainer: Arthur Borsboom, https://github.com/ArthurBorsboom, arthurborsboom@gmail.com
 - License: GNU GENERAL PUBLIC LICENSE Version 3, 29 June 2007 (see below)
 - Source code: https://github.com/ArthurBorsboom/Kodi-Launches-EmulationStation-Addon
 
