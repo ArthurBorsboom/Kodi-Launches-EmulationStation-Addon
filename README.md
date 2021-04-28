@@ -1,5 +1,5 @@
 # Kodi Addon to launch EmulationStation
-This addon adds an easy way to Kodi to start this fantastic game emulator called EmulationStation, which provides a beautiful interface to run your ROM's from more than 50 systems with personalized skins and art boxes. You can navigate the menus using a game controller which is perfect for a complete HTPC experience. EmulationStation has a built-in metadata scraper that downloads game art, correct titles, descriptions and even ratings of your games. EmulationStation is cross-platform, and open source.
+This addon adds an easy way to start EmulationStation in Kodi. This fantastic game emulator provides a beautiful interface to run your ROM's from more than 50 systems with personalized skins and art boxes. You can navigate the menus using a game controller which is perfect for a complete HTPC experience. EmulationStation has a built-in metadata scraper that downloads game art, correct titles, descriptions and even ratings of your games. EmulationStation is cross-platform, and open source.
 
 * OS: Windows, Linux
 * Kodi: v19 (Matrix) and newer.
@@ -8,7 +8,7 @@ This addon adds an easy way to Kodi to start this fantastic game emulator called
 To switch language, change it on the configurations of Kodi at `Settings -> Interface settings -> Regional -> Language`.
 
 ## Usage
-Use this Addon on Kodi if you want to launch EmulationStation from it using a nice interface created with original images taken from the program itself and games. It works on any platform where Kodi and EmulationStation can be installed (Linux and Windows).
+Use this Addon on Kodi if you want to launch EmulationStation using a nice interface created with original images taken from the program itself and games. It works on any platform where Kodi and EmulationStation can be installed (Linux and Windows).
 
 **Notes:**
 This Addon is just a launcher, so it assumes that you already have installed and configured EmulationStation on your system. It will not assist you to install, configure EmulationStation or download ROM's or BIOS's for it. You need to provide them by your own. This Addon does not collect any kind of hardware/software information, usage statistics or any kind of data from you or your system; we respect your privacy.
@@ -29,7 +29,7 @@ After that you need to install and configure EmulationStation. To download it an
    Go to this page https://github.com/ArthurBorsboom/Kodi-Launches-EmulationStation-Addon/releases and download the latest zip file available.
 
 2. Start Kodi and navigate to `Settings -> Add-ons -> Add-on browser -> Install from zip file`, on the file browser look for the zip file you downloaded on the previous step and select it. Installation is going to start and Kodi will show a notification when this is done.
-   **Note:** If preference is not checked, Kodi will ask you to allow installations from zip files as a security measure. Change your preferences to allow installations from zip files and continue with the installation. Also please notice that this options can be displayed on different paths depending of the Kodi skin you are using. The path used above is a generic one that may or may not be on your skins, but in any case it is not hard to find.
+   **Note:** If preference is not checked, Kodi will ask you to allow installations from zip files as a security measure. Change your preferences to allow installations from zip files and continue with the installation. Also, please notice that this options can be displayed on different paths depending on the Kodi skin you are using. The path used above is a generic one that may or may not be on your skins, but in any case it is not hard to find.
 
 3. Once the Addon is installed, navigate to `Program Add-ons` and you will see EmulationStation listed there.   
 
@@ -51,7 +51,7 @@ After that you need to install and configure EmulationStation. To download it an
 ##### Emulators not visible or starting underneath Kodi
 When Python within Kodi starts a new command like the EmulationStation program, it doesn't provide a terminal where emulators can connect and be displayed. As for version 1.1.4 we implemented a solution for Linux users by running Xterm which calls EmulationStation executable and this provides a TTY for emulators to connect to. Xterm location is set as default, but if you have it on a different path, you can change it on the Advanced tab of the Addon Configuration.
 
-Sometimes, because Kodi is in fullscreen, emulators will start underneath Kodi's window and not become visible. This can be worked around by exiting Kodi's fullscreen when EmulationStation starts and returning to Kodi's fullscreen after EmulationStation closes. As for version 1.1.4, this option has been added on the Advanced tab of the Addon Configuration.
+Sometimes, because Kodi is in full screen, emulators will start underneath Kodi's window and not become visible. This can be worked around by exiting Kodi's full screen when EmulationStation starts and returning to Kodi's full screen after EmulationStation closes. As for version 1.1.4, this option has been added on the Advanced tab of the Addon Configuration.
 
 ##### Screen turning off or computer enters in sleep mode
 On some systems, EmulationStation will not preven Kodi from sleeping or shutting down. A workaround has also been added and a switch was added on the Advanced tab of the Addon Configuration.
