@@ -3,14 +3,14 @@ Addon for Kodi to launch EmulationStation on Windows and Linux (platforms were E
 
 Our goal is to bring to Kodi an easy access to launch this fantastic emulator front-end which provides a beautiful interface to run your roms from more than 50 systems (and counting) with personalized skins and art boxes. You can navigate on its menus using a controller which is perfect for a complete HTPC experience, also it has a built-in metadata scraper that lets you easily download game box art, correct titles, description and even ratings about your games. EmulationStation is cross-platform, and completely open source.
 
-This Addon was made for Kodi Krypton v17.x and higher since it takes advantage of new features introduced on this version.
-This Addon is available in 3 languages: English, French and Spanish. To swtich to any language, change it on the configurations of Kodi at `Settings -> Interface settings -> Regional -> Language`.
+This Addon support Kodi 19 (Matrix) and newer.
+This Addon is available in 3 languages: English, French and Spanish. To switch to any language, change it on the configurations of Kodi at `Settings -> Interface settings -> Regional -> Language`.
 
 ## Usage
 Use this Addon on Kodi if you want to launch EmulationStation from it using a nice interface created with original images taken from the program itself and games. It works on any platform where Kodi and EmulationStation can be installed (Linux and Windows).
 
 **Notes:**  
-This Addon is just a launcher, so it assumes that you already have installed and configured EmulationStation on your system. It will not assist you to install or configure EmulationStation or download roms or bios for it, you need to provide them by your own. This Addon does not collect any kind of hardware/software information, usage statistics or any kind of data from you or your system, we respect your privacy.
+This Addon is just a launcher, so it assumes that you already have installed and configured EmulationStation on your system. It will not assist you to install, configure EmulationStation or download ROM's or BIOS's for it. You need to provide them by your own. This Addon does not collect any kind of hardware/software information, usage statistics or any kind of data from you or your system; we respect your privacy.
 
 
 ![Addon-Selected-Information.jpg](/script.kodi.launches.emulationstation/resources/addon-screenshots/Addon-Selected-Information.jpg)
@@ -19,8 +19,8 @@ This Addon is just a launcher, so it assumes that you already have installed and
 ## Installation
 
 #### Prerequisites
-First, you need to install Kodi, to download and install it go to https://kodi.tv/  
-After that you need to install and configure EmulationStation, to download and get instructions based on your operating system, go to http://emulationstation.org/gettingstarted.html and to configure EmulationStation go to http://emulationstation.org/gettingstarted.html#config (basically what you need to do is to edit XML files to set the roms paths for each system and set the location of the emulator-manager you want to use, for example *RetroArch*, and add your roms).
+First, you need to install Kodi. To download and install it go to https://kodi.tv/  
+After that you need to install and configure EmulationStation. To download it and get instructions based on your operating system, go to https://emulationstation.org/gettingstarted.html and to configure EmulationStation go to https://emulationstation.org/gettingstarted.html#config (basically what you need to do is to edit XML files to set the ROM paths for each system and set the location of the emulator-manager you want to use, such as *RetroArch*, and add your ROM's).
 
 #### Steps
 1. Download the Addon:   
